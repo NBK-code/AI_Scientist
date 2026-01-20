@@ -1,0 +1,17 @@
+# Core language + utilities
+python-dotenv
+pydantic
+requests
+numpy
+
+# LLM & agents
+openai
+
+# LangGraph (control flow)
+langgraph
+
+# MCP (Model Context Protocol)
+mcp
+
+# Optional but recommended for testing / debugging
+pytest
