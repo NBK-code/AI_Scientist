@@ -1,4 +1,4 @@
-# 🧪 AI Scientist: Multi-Agent Research Assistant
+# AI Scientist: Multi-Agent Research Assistant
 
 An **industry-grade, modular, multi-agent AI system** that performs **automated literature discovery, iterative research exploration, synthesis, and evaluation** — with **human-in-the-loop control** and a **clean separation between reasoning and execution using MCP**.
 
@@ -21,13 +21,13 @@ All execution is routed through an **MCP (Model Context Protocol) server**, maki
 
 ## Agents
 
-### 1️⃣ Query Proposer Agent
+### Query Proposer Agent
 - Reads accumulated paper abstracts
 - Proposes **new search queries**
 - Explains *why* each query is relevant
 - Operates in a **human-in-the-loop loop**
 
-### 2️⃣ Evaluator Agent
+### Evaluator Agent
 - Independently evaluates the final synthesis
 - Uses structured quality metrics:
   - Coverage
